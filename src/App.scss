@@ -1,0 +1,82 @@
+@import "./styles/hero.scss";
+@import "./styles/navbar.scss";
+
+@font-face { font-family: Muifa; src: url(./fonts/Muifamoso.ttf); } 
+@font-face {
+    font-family: 'Gilroy';
+    src: url(./fonts/Gilroy-Light.otf);
+}
+
+body{
+  background-image: url(./images/design.png);
+  background-size: cover;
+}
+
+.order{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width:80vw;
+  height:10vh;
+  background-color: #b5ff16;
+  border-radius: 10px;
+  margin: auto;
+  margin-bottom:50px;
+}
+.order h1{
+    font-family: 'Gilroy';
+    font-size: 1.8rem;
+  }
+
+
+
+@media only screen and (max-width: 1500px) {
+  .image1, .image2{
+    height:60%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .image1, .image2{
+    height:50%;
+  }
+
+  .hero-text{
+    h1{
+      font-size: 2.5rem;
+    }
+    h3{
+      font-size: 1.2rem;
+    }
+  }
+
+  .order{
+    height:6vh;
+  }
+
+  .order h1{
+    font-family: 'Gilroy';
+    font-size: 1.4rem;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .hero{
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-image{
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .hero{
+    padding: 12rem 0 0 0;
+  }
+
+  .navbar{
+    padding: 2rem 5rem 0 0;
+  }
+}

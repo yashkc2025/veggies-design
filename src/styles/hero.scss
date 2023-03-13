@@ -1,0 +1,80 @@
+@font-face { font-family: Muifa; src: url(../fonts/Muifamoso.ttf); } 
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Light.otf);
+}
+$backgroundColor: #fbfbfb;
+$primaryColor:#d7ff82;
+$primaryTextColor: #000000;
+$primaryFont: 'Muifa';
+
+
+.hero{
+    height:50vh; 
+    padding:12rem 12rem 0 12rem;
+    display:flex;
+    justify-content: space-between;
+}
+
+.hero-text{
+    h1{
+        font-family: 'Muifa';
+        font-size: 3.5rem;
+        color: $primaryTextColor;
+        text-transform: uppercase;
+        line-height: 2rem;
+    }
+    
+    h3{
+        font-family: 'Gilroy';
+        font-size: 18px;
+        color: $primaryTextColor;
+        line-height: 10px;
+    }
+}
+
+.hero-image{
+    width:50%;
+    height: 90%;
+    display:flex;
+    justify-content: center;
+}
+
+.image1{
+    width: 40%;
+    height: 80%;
+    background-color: white;
+    border-color: grey;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 0% 10% 10% 10%;
+
+    img{
+        width:130%;
+        transform: rotate(-30deg);
+        margin-left: -6rem;
+    }
+
+    img:hover{
+        transform: scale(1.1);
+        transition: all 2s ease-in-out;}
+
+}
+
+.image2{
+    width: 40%;
+    height: 80%;
+    background-color: #d7ff82;
+    border-width: 1.5px;
+    border-radius: 10% 0 10% 10%;
+
+    img{
+        width:150%;
+    }
+
+    img:hover{
+        transform: scale(1.1);
+        transition: all 2s ease-in-out;
+    }
+}
+

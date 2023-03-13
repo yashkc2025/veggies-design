@@ -1,0 +1,30 @@
+@font-face { font-family: Muifa; src: url(../fonts/Muifamoso.ttf); } 
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Light.otf);
+}
+$backgroundColor: #fbfbfb;
+$primaryTextColor:#b5ff16;
+$primaryFont: 'Gilroy';
+
+.navbar{
+    padding: 2rem 12rem 0 12rem;
+    display: flex;
+    align-items: end;
+    flex-direction: row-reverse;
+
+    a{
+        text-decoration: none;
+        color: $primaryTextColor;
+        font-family: $primaryFont;
+        font-weight:bolder;
+        font-size: 1.4rem;
+    }
+
+    a:hover{
+        text-decoration: underline;
+        text-decoration-style: wavy;
+        text-decoration-color: rgb(255, 225, 0);
+        text-decoration-thickness: 2px;
+    }
+}
