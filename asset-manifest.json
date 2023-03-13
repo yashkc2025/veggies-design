@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/veggies-design/static/css/main.de67765d.css",
+    "main.js": "/veggies-design/static/js/main.16790e81.js",
+    "static/js/787.0915d941.chunk.js": "/veggies-design/static/js/787.0915d941.chunk.js",
+    "static/media/design.png": "/veggies-design/static/media/design.8c815ffe2a43a746819c.png",
+    "static/media/cauli.png": "/veggies-design/static/media/cauli.b83cd133a116e1bdb7cc.png",
+    "static/media/okra.png": "/veggies-design/static/media/okra.f02918f2ad6a5d6a9867.png",
+    "static/media/Gilroy-Light.otf": "/veggies-design/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/Muifamoso.ttf": "/veggies-design/static/media/Muifamoso.7473dac810e10b7eb93a.ttf",
+    "static/media/logo.svg": "/veggies-design/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/veggies-design/index.html",
+    "main.de67765d.css.map": "/veggies-design/static/css/main.de67765d.css.map",
+    "main.16790e81.js.map": "/veggies-design/static/js/main.16790e81.js.map",
+    "787.0915d941.chunk.js.map": "/veggies-design/static/js/787.0915d941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de67765d.css",
+    "static/js/main.16790e81.js"
+  ]
+}
