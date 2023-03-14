@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/veggies-design/static/css/main.2205937f.css",
+    "main.css": "/veggies-design/static/css/main.11ce911f.css",
     "main.js": "/veggies-design/static/js/main.c15d42b3.js",
     "static/js/787.0915d941.chunk.js": "/veggies-design/static/js/787.0915d941.chunk.js",
     "static/media/design.png": "/veggies-design/static/media/design.8c815ffe2a43a746819c.png",
@@ -10,12 +10,12 @@
     "static/media/Muifamoso.ttf": "/veggies-design/static/media/Muifamoso.7473dac810e10b7eb93a.ttf",
     "static/media/logo.svg": "/veggies-design/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/veggies-design/index.html",
-    "main.2205937f.css.map": "/veggies-design/static/css/main.2205937f.css.map",
+    "main.11ce911f.css.map": "/veggies-design/static/css/main.11ce911f.css.map",
     "main.c15d42b3.js.map": "/veggies-design/static/js/main.c15d42b3.js.map",
     "787.0915d941.chunk.js.map": "/veggies-design/static/js/787.0915d941.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2205937f.css",
+    "static/css/main.11ce911f.css",
     "static/js/main.c15d42b3.js"
   ]
 }
