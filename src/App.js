@@ -8,7 +8,7 @@ function App() {
       <Navbar/>
       <Hero/>
       <div className='order'>
-        <h1>Order Now ➜</h1>
+        <a href='yashkc2025.github.io'>Order Now ➜</a>
       </div>
     </div>
   );
