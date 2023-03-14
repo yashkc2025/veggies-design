@@ -17,15 +17,17 @@ body{
   justify-content: center;
   text-align: center;
   width:80vw;
-  height:10vh;
+  height:5vh;
   background-color: #b5ff16;
   border-radius: 10px;
   margin: auto;
   margin-bottom:50px;
 }
-.order h1{
+.order a{
     font-family: 'Gilroy';
     font-size: 1.8rem;
+    text-decoration: none;
+    color: black;
   }
 
 
